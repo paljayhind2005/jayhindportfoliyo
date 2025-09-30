@@ -18,8 +18,8 @@ const ProjectsSection = () => {
         'Course catalog and materials',
         'Modern UI/UX design'
       ],
-      githubUrl: 'https://github.com/jayhindpal/education-website',
-      liveUrl: 'https://education-demo.netlify.app',
+      githubUrl: 'https://github.com/paljayhind2005/Education-Web-Applicationn',
+      liveUrl: 'https://paljayhind2005.github.io/Education-Web-Applicationn/',
       category: 'Web Development'
     },
     {
@@ -34,7 +34,7 @@ const ProjectsSection = () => {
         'Admin panel for question management',
         'Leaderboard and result analytics'
       ],
-      githubUrl: 'https://github.com/jayhindpal/quiz-application',
+      githubUrl: 'https://github.com/paljayhind2005/quiz-application',
       liveUrl: 'https://quiz-app-demo.netlify.app',
       category: 'Full Stack'
     },
@@ -50,8 +50,8 @@ const ProjectsSection = () => {
         'Community challenges',
         'Reward system & achievements'
       ],
-      githubUrl: 'https://github.com/jayhindpal/habitica-routine',
-      liveUrl: 'https://habitica-demo.netlify.app',
+      githubUrl: 'https://github.com/paljayhind2005/habitica-routine',
+      liveUrl: 'https://preview--habitica.lovable.app/',
       category: 'Full Stack'
     }
   ];
@@ -206,7 +206,7 @@ const ProjectsSection = () => {
             variant="outline"
             size="lg"
             className="border-primary/50 hover:border-primary hover:bg-primary/10"
-            onClick={() => window.open('https://github.com/jayhindpal', '_blank')}
+            onClick={() => window.open('https://github.com/paljayhind2005', '_blank')}
           >
             <Github className="h-5 w-5 mr-2" />
             View All Projects on GitHub
