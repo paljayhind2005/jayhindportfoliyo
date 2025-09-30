@@ -100,7 +100,7 @@ const HeroSection = () => {
               variant="ghost"
               size="lg"
               className="hover-lift hover:text-primary group"
-              onClick={() => window.open('https://github.com/jayhindpal', '_blank')}
+              onClick={() => window.open('https://github.com/paljayhind2005', '_blank')}
             >
               <Github className="h-6 w-6 group-hover:scale-110 transition-transform" />
             </Button>
@@ -108,7 +108,7 @@ const HeroSection = () => {
               variant="ghost"
               size="lg" 
               className="hover-lift hover:text-primary group"
-              onClick={() => window.open('https://linkedin.com/in/jayhindpal', '_blank')}
+              onClick={() => window.open('https://www.linkedin.com/in/jayhind-pal/', '_blank')}
             >
               <Linkedin className="h-6 w-6 group-hover:scale-110 transition-transform" />
             </Button>

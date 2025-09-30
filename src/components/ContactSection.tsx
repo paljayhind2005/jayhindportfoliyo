@@ -41,15 +41,15 @@ const ContactSection = () => {
     {
       icon: Github,
       label: 'GitHub',
-      value: '@jayhindpal',
-      link: 'https://github.com/jayhindpal',
+      value: '@paljayhind2005',
+      link: 'https://github.com/paljayhind2005',
       color: 'hover:text-gray-400'
     },
     {
       icon: Linkedin,
       label: 'LinkedIn',
       value: 'Jayhind Pal',
-      link: 'https://linkedin.com/in/jayhindpal',
+      link: 'https://www.linkedin.com/in/jayhind-pal/',
       color: 'hover:text-blue-400'
     }
   ];
